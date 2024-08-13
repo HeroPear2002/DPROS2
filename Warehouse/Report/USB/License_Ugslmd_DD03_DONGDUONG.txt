@@ -1,0 +1,175 @@
+
+
+
+
+
+################################################################################
+#                                                                              #
+#                                                                              #
+#                          Siemens PLM Software Inc.                           #
+#                                 License File                                 #
+#                                                                              #
+#  Sold-To/Install: 1806274                    WebKey Access Code: D0747P4KLY  #
+#     Contact Name: Xuyen Hinh                            Created: 03/25/2020  #
+#    Customer Name: Cong ty TNHH Nhua va Co Khi                                #
+#   E-mail Address: xuyen.hinh@tuvanbanquyen.vn           Version: 1899        #
+################################################################################
+SERVER DD-DD03 COMPOSITE=4E7BB57F4F8D 28000                                     
+VENDOR ugslmd                                                                   
+PACKAGE NX13200N ugslmd 35.0 COMPONENTS="NX13200N_3d_to_2d_flattener \          
+        NX13200N_assemblies NX13200N_drafting NX13200N_dxf_to_ug \              
+        NX13200N_dxfdwg NX13200N_features_modeling \                            
+        NX13200N_free_form_modeling NX13200N_gateway \                          
+        NX13200N_geometric_tol NX13200N_grip_execute NX13200N_iges \            
+        NX13200N_nx_flexible_pcb NX13200N_nx_freeform_1 \                       
+        NX13200N_nx_freeform_2 NX13200N_nx_nastran_export \                     
+        NX13200N_nx_sheet_metal NX13200N_nx_spsd_stress \                       
+        NX13200N_nx_spsd_vibration NX13200N_nx_visual_reporting \               
+        NX13200N_pcf_package_file NX13200N_pstudio_cons \                       
+        NX13200N_pv_ugdatagenerator NX13200N_routing_base \                     
+        NX13200N_sla_3d_systems NX13200N_solid_modeling \                       
+        NX13200N_step_ap203 NX13200N_step_ap214 \                               
+        NX13200N_studio_visualize NX13200N_ug_checkmate \                       
+        NX13200N_ug_kf_checker NX13200N_ug_kf_execute \                         
+        NX13200N_ug_mold_design NX13200N_ug_nas_des \                           
+        NX13200N_ug_prod_des_advisor NX13200N_ug_smart_models \                 
+        NX13200N_ug_to_dxf NX13200N_ug_web_express \                            
+        NX13200N_ugopen_menuscript NX13200N_usr_defined_features" \             
+        OPTIONS=SUITE ck=157 SIGN="0970 18D4 6F27 4E3D 657A 25D9 19AB \         
+        5637 0306 7A32 F17E F1CF 906C B867 C1F5 13F6 5125 8409 E69D \           
+        C0A9 5235 FA2C C753 348C 30A9 2B2F F6B1 F1E9 1631 D0C9"                 
+INCREMENT NX13200N ugslmd 35.0 permanent 1 SUPERSEDE DUP_GROUP=UHD \            
+        user_info="NX Mach 3 Mold Design" ISSUED=25-mar-2020 \                  
+        BORROW=2880 ck=207 SIGN="0349 B7FB 148A 5F18 AF0C A579 55B8 \           
+        C9D8 7ADB 31E6 65E1 0E71 1E15 E2BC 4CAC 07B1 EE42 492A E465 \           
+        4FE5 9543 2D06 0437 2869 42ED 7724 0FD0 60C7 57AD 7280"                 
+INCREMENT borrowing ugslmd 35.0 permanent 1 DUP_GROUP=NONE \                    
+        user_info="License Borrow Option" ISSUED=25-mar-2020 ck=235 \           
+        SIGN="1F13 1123 58C7 49AC 97E5 24B8 5168 149A 78CA 33FA DBAB \          
+        CE8E 2B2E 5D9A A9EC 1F3D 6E47 F148 C552 F0AF D329 9BDF AEAF \           
+        D767 B610 BA09 2FCB 586E D379 D0F7"                                     
+INCREMENT gateway_id ugslmd 35.0 permanent 1000 SUPERSEDE \                     
+        DUP_GROUP=UHD user_info="I-deas gateway" ISSUED=25-mar-2020 \           
+        BORROW=2880 ck=186 SIGN="1B97 6EBA E94C 8FE7 391C 2B57 70EF \           
+        721C 5AA9 5139 AB5A 53EE 6FB3 BC00 74C3 018E 04E9 CB99 2F45 \           
+        B523 C22B C79C 7104 5535 FA87 9929 7092 3585 B178 2DC2"                 
+INCREMENT ideas_integration ugslmd 12.0 permanent 1 SUPERSEDE \                 
+        DUP_GROUP=UHD ISSUED=25-mar-2020 ck=209 SIGN="1FEE 6042 F291 \          
+        189F DE6A 1C6B FA80 33EA 4705 CF32 E5F6 6DE3 3AD6 975C CB51 \           
+        0C32 AD2A C4D4 9D18 EBE8 2408 1F63 64E2 1333 0A7F EC40 BF5E \           
+        4605 C9D0 A838"                                                         
+INCREMENT nx_easyfill_advanced ugslmd 35.0 permanent 1 SUPERSEDE \              
+        DUP_GROUP=UHD user_info="NX EasyFill Analysis - Adv" \                  
+        ISSUED=25-mar-2020 BORROW=2880 ck=206 SIGN="0182 BAAB E287 \            
+        8685 C683 FA11 E9A2 DC02 2E36 1916 4A9B FF5E A82C EAE6 CE44 \           
+        18C1 67E4 15B5 8F9E 6209 0AD1 D4E5 72BB 8EB2 B166 8486 8AEB \           
+        348F AD0E 8AC4"                                                         
+INCREMENT nx_integration ugslmd 12.0 permanent 1 SUPERSEDE \                    
+        DUP_GROUP=UHD ISSUED=25-mar-2020 ck=179 SIGN="0548 1664 AF44 \          
+        D114 38C6 690C D03C C608 DC46 E8AF 6BF4 4218 348D 67C8 A00B \           
+        17BF 14AB 3DDF 29F1 B3FF 00A8 E324 1DA2 D121 06F9 3CE0 0892 \           
+        FF3C 31AA AC28"                                                         
+INCREMENT nx_nas_bn_basic_dsk ugslmd 35.0 permanent 1 SUPERSEDE \               
+        DUP_GROUP=NONE user_info="NX Mach 3 Mold Design" \                      
+        ISSUED=25-mar-2020 BORROW=2880 ck=124 SIGN="1CAB 6C49 366D \            
+        3616 2C3E E95E 8363 B0EA F8AD 9847 14CC 9F77 166D E674 D8D5 \           
+        1805 5917 06D1 978F 601F 411A 1B35 F1C6 BC25 A1BC 61BF 30D1 \           
+        70AF 3AFD 77D1"                                                         
+INCREMENT teamcenter_admin ugslmd 12.0 permanent 2 SUPERSEDE \                  
+        DUP_GROUP=UHD ISSUED=25-mar-2020 ck=203 SIGN="1617 FA57 A0F4 \          
+        5B05 5E8C 8AD8 4564 B93E 01EF 8367 8184 3333 DC84 ED3A 01D1 \           
+        1A03 C083 BEF3 24DD 6A10 1AB0 E0D3 0E5F 8E02 7B11 C73D 466B \           
+        B1FD 7F9E 04B6"                                                         
+INCREMENT teamcenter_designer ugslmd 12.0 permanent 1 SUPERSEDE \               
+        DUP_GROUP=UHD ISSUED=25-mar-2020 ck=155 SIGN="0C34 F540 0BF1 \          
+        B7F1 386B 2CBA CE0F DB3E 72B0 4338 56DD 640A 9589 E01D 3EA1 \           
+        108D E5B8 BEED 5081 2601 9586 08BB C000 4420 2D21 BD29 62E2 \           
+        959E 16D3 B054"                                                         
+INCREMENT visview_base ugslmd 12.0 permanent 1 SUPERSEDE \                      
+        DUP_GROUP=UHD user_info="NX Mach 3 Mold Design" \                       
+        ISSUED=25-mar-2020 BORROW=2880 ck=166 SIGN="0E0E 849B 294F \            
+        8873 A203 8305 128A 2676 E77B 54DA B40C 04DC 6095 65E0 9F64 \           
+        0C60 F855 95A2 BCEC 5548 491D 4E38 CF80 2427 6AAF E397 73D5 \           
+        3297 7CA8 465A"                                                         
+FEATURE server_id ugslmd 35.0 permanent 1 VENDOR_STRING="1806274 - \            
+        Cong ty TNHH Nhua va" user_info=D0747P4KLY ISSUER=SIEMENS \             
+        BORROW=2880 ck=205 SIGN="0003 F471 E0C9 B7D3 2999 55C5 B604 \           
+        0A1B E03A E395 A435 C40B 308B 2DF0 8057 05E0 12C6 DDD5 AC19 \           
+        0C9E DA1E 46C0 8A74 47B6 9D7F 381B 084D 20E4 79AB 858D"                 
+
+
+
+
+
+################################################################################
+#                                                                              #
+#              SOFTWARE LICENSE TO FEATURE NAME CROSS REFERENCE                #
+#   Version: 1899                                  Created: 03/25/2020 01:51:33#
+#   Cong ty TNHH Nhua va Co Khi            Sold-To/Install: 1806274            #
+################################################################################
+
+# LICENSE PRODUCT  QTY  DESCRIPTION            QTY  FEATURE NAME                
+
+# --------------- ----- --------------------  ----- --------------------------- 
+# NX13200             1 NX Mach 3 Mold Design                                   
+#                                                 1 3d_to_2d_flattener          
+#                                                 1 assemblies                  
+#                                                 1 drafting                    
+#                                                 1 dxf_to_ug                   
+#                                                 1 dxfdwg                      
+#                                                 1 features_modeling           
+#                                                 1 free_form_modeling          
+#                                                 1 gateway                     
+#                                                 1 geometric_tol               
+#                                                 1 grip_execute                
+#                                                 1 ideas_integration           
+#                                                 1 iges                        
+#                                                 1 nx_flexible_pcb             
+#                                                 1 nx_freeform_1               
+#                                                 1 nx_freeform_2               
+#                                                 1 nx_integration              
+#                                                 1 nx_nas_bn_basic_dsk         
+#                                                 1 nx_nastran_export           
+#                                                 1 nx_sheet_metal              
+#                                                 1 nx_spsd_stress              
+#                                                 1 nx_spsd_vibration           
+#                                                 1 nx_visual_reporting         
+#                                                 1 pcf_package_file            
+#                                                 1 pstudio_cons                
+#                                                 1 pv_ugdatagenerator          
+#                                                 1 routing_base                
+#                                                 1 sla_3d_systems              
+#                                                 1 solid_modeling              
+#                                                 1 step_ap203                  
+#                                                 1 step_ap214                  
+#                                                 1 studio_visualize            
+#                                                 1 teamcenter_designer         
+#                                                 1 ug_checkmate                
+#                                                 1 ug_kf_checker               
+#                                                 1 ug_kf_execute               
+#                                                 1 ug_mold_design              
+#                                                 1 ug_nas_des                  
+#                                                 1 ug_prod_des_advisor         
+#                                                 1 ug_smart_models             
+#                                                 1 ug_to_dxf                   
+#                                                 1 ug_web_express              
+#                                                 1 ugopen_menuscript           
+#                                                 1 usr_defined_features        
+#                                                 1 visview_base                
+# NX30157             1 NX EasyFill Analysis - Adv                              
+#                                                 1 nx_easyfill_advanced        
+# TCADMIN             2 Teamcenter Admin          2 teamcenter_admin            
+
+
+
+
+################################################################################
+#                                                                              #
+#          The following products are not included on this file                #
+#                 for the respective reason listed                             #
+#                                                                              #
+################################################################################
+
+#  PRODUCT               QTY  DESCRIPTION              REASON                   
+#  ------------------  -----  -----------------------  ---------------------    
+#  TC1DOTC                 1  Teamcenter Deployment    Deployment Option        

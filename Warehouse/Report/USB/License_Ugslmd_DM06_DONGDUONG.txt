@@ -1,0 +1,151 @@
+
+
+
+
+
+################################################################################
+#                                                                              #
+#                                                                              #
+#                          Siemens PLM Software Inc.                           #
+#                                 License File                                 #
+#                                                                              #
+#  Sold-To/Install: 1806273                    WebKey Access Code: 6GBFOVPYIR  #
+#     Contact Name: Xuyen Hinh                            Created: 03/25/2020  #
+#    Customer Name: Cong ty TNHH Nhua va Co Khi                                #
+#   E-mail Address: xuyen.hinh@tuvanbanquyen.vn           Version: 1899        #
+################################################################################
+PACKAGE NX12451 ugslmd 35.0 COMPONENTS="NX12451_3d_to_2d_flattener \            
+        NX12451_assemblies NX12451_cam_base NX12451_cam_facets \                
+        NX12451_cavity_milling NX12451_drafting NX12451_dxf_to_ug \             
+        NX12451_dxfdwg NX12451_features_modeling \                              
+        NX12451_fix_axis_surf_mill NX12451_flow_cut \                           
+        NX12451_free_form_modeling NX12451_gateway \                            
+        NX12451_geometric_tol NX12451_gmc NX12451_graphical_tool_path \         
+        NX12451_grip_execute NX12451_iges NX12451_nc_external_program \         
+        NX12451_nc_wizard_builder NX12451_nurb_output_enabler \                 
+        NX12451_nx_flexible_pcb NX12451_nx_freeform_1 \                         
+        NX12451_nx_freeform_2 NX12451_nx_isv_mtb \                              
+        NX12451_nx_nastran_export NX12451_nx_post_config_adv \                  
+        NX12451_nx_sheet_metal NX12451_nx_spsd_stress \                         
+        NX12451_nx_spsd_vibration NX12451_nx_visual_reporting \                 
+        NX12451_nx_wi_authoring NX12451_pcf_package_file \                      
+        NX12451_planar_milling NX12451_probe NX12451_pstudio_auth \             
+        NX12451_pstudio_cons NX12451_pv_ugdatagenerator \                       
+        NX12451_routing_base NX12451_shop_doc NX12451_sinumerik_spline \        
+        NX12451_sla_3d_systems NX12451_solid_modeling \                         
+        NX12451_step_ap203 NX12451_step_ap214 NX12451_studio_render \           
+        NX12451_studio_visualize NX12451_surface_milling \                      
+        NX12451_tol_cavity_milling NX12451_ug_checkmate \                       
+        NX12451_ug_holemaking NX12451_ug_kf_checker \                           
+        NX12451_ug_kf_execute NX12451_ug_library_access \                       
+        NX12451_ug_nas_des NX12451_ug_post_exe \                                
+        NX12451_ug_post_kinematics NX12451_ug_post_mill \                       
+        NX12451_ug_smart_models NX12451_ug_to_dxf \                             
+        NX12451_ug_to_vericut NX12451_ug_visualize \                            
+        NX12451_ug_web_express NX12451_ugopen_menuscript \                      
+        NX12451_usr_defined_features" OPTIONS=SUITE ck=167 SIGN="0EEF \         
+        7C3C C3D2 1355 D3E2 807F 477C F912 647B B18B D035 AA4C 19F6 \           
+        0230 5413 139C 52C0 82AC 5864 130E 26AF C392 6285 4ABC E6D6 \           
+        81C3 8B1C 2F90 13BD 7502"                                               
+FEATURE NX12451 ugslmd 35.0 permanent uncounted HOSTID=04d4c44cf444 \           
+        user_info="NX CAD/CAM 3 Axis Milling (NL)" ck=167 SIGN="09D1 \          
+        EDB1 BBFE C359 175C F2A0 F723 ACA0 4E96 1FAA BED6 D7A4 509E \           
+        882F 6D09 17C6 A412 8261 78FB 8760 3295 E480 479C 62A1 2B87 \           
+        5024 13E4 76A5 6691 3BF2"                                               
+FEATURE nx_nas_bn_basic_dsk ugslmd 35.0 permanent uncounted \                   
+        HOSTID=04d4c44cf444 ck=154 SIGN="0723 5A1C 87D5 A2D7 FC64 7CEB \        
+        8B5C BF3D 23D1 96F0 22BA AE8F 2189 AF57 322E 0D54 0F8D BFEC \           
+        1216 C06A 50E9 00B9 4726 561E 0399 AFB1 5BB8 5B08 2ABB AD53"            
+FEATURE gateway_id ugslmd 35.0 permanent uncounted HOSTID=DEMO \                
+        user_info="I-deas gateway" ck=215 SIGN="1594 9379 56C6 6071 \           
+        9C39 9598 4140 7D19 E832 734D 29F7 F33E A447 151F 2B17 17B9 \           
+        536C E839 425A 70B2 E861 9A19 64E6 D614 83A5 C316 2E93 B515 \           
+        1F02 4B98"                                                              
+FEATURE server_id ugslmd 35.0 permanent uncounted \                             
+        VENDOR_STRING="1806273 - Cong ty TNHH Nhua va" HOSTID=ANY \             
+        user_info=6GBFOVPYIR ISSUER=SIEMENS BORROW=2880 ck=207 \                
+        SIGN="05B6 7667 2CE3 6782 D334 0343 1D94 0DD5 AA60 6AA2 F9F3 \          
+        5380 B0E3 BE37 566F 1142 0076 9F18 D81B AD80 1F61 2A70 2B2B \           
+        FDAD BC52 6AB3 FB05 3D76 2783 C194"                                     
+
+
+
+
+
+################################################################################
+#                                                                              #
+#              SOFTWARE LICENSE TO FEATURE NAME CROSS REFERENCE                #
+#   Version: 1899                                  Created: 03/25/2020 01:50:08#
+#   Cong ty TNHH Nhua va Co Khi            Sold-To/Install: 1806273            #
+################################################################################
+
+# LICENSE PRODUCT  QTY  DESCRIPTION            QTY  FEATURE NAME                
+
+# --------------- ----- --------------------  ----- --------------------------- 
+# NX12451             1 NX CAD/CAM 3 Axis Milling (NL)                          
+#                                                 1 3d_to_2d_flattener          
+#                                                 1 assemblies                  
+#                                                 1 cam_base                    
+#                                                 1 cam_facets                  
+#                                                 1 cavity_milling              
+#                                                 1 drafting                    
+#                                                 1 dxf_to_ug                   
+#                                                 1 dxfdwg                      
+#                                                 1 features_modeling           
+#                                                 1 fix_axis_surf_mill          
+#                                                 1 flow_cut                    
+#                                                 1 free_form_modeling          
+#                                                 1 gateway                     
+#                                                 1 geometric_tol               
+#                                                 1 gmc                         
+#                                                 1 graphical_tool_path         
+#                                                 1 grip_execute                
+#                                                 1 iges                        
+#                                                 1 nc_external_program         
+#                                                 1 nc_wizard_builder           
+#                                                 1 nurb_output_enabler         
+#                                                 1 nx_flexible_pcb             
+#                                                 1 nx_freeform_1               
+#                                                 1 nx_freeform_2               
+#                                                 1 nx_isv_mtb                  
+#                                                 1 nx_nas_bn_basic_dsk         
+#                                                 1 nx_nastran_export           
+#                                                 1 nx_post_config_adv          
+#                                                 1 nx_sheet_metal              
+#                                                 1 nx_spsd_stress              
+#                                                 1 nx_spsd_vibration           
+#                                                 1 nx_visual_reporting         
+#                                                 1 nx_wi_authoring             
+#                                                 1 pcf_package_file            
+#                                                 1 planar_milling              
+#                                                 1 probe                       
+#                                                 1 pstudio_auth                
+#                                                 1 pstudio_cons                
+#                                                 1 pv_ugdatagenerator          
+#                                                 1 routing_base                
+#                                                 1 shop_doc                    
+#                                                 1 sinumerik_spline            
+#                                                 1 sla_3d_systems              
+#                                                 1 solid_modeling              
+#                                                 1 step_ap203                  
+#                                                 1 step_ap214                  
+#                                                 1 studio_render               
+#                                                 1 studio_visualize            
+#                                                 1 surface_milling             
+#                                                 1 tol_cavity_milling          
+#                                                 1 ug_checkmate                
+#                                                 1 ug_holemaking               
+#                                                 1 ug_kf_checker               
+#                                                 1 ug_kf_execute               
+#                                                 1 ug_library_access           
+#                                                 1 ug_nas_des                  
+#                                                 1 ug_post_exe                 
+#                                                 1 ug_post_kinematics          
+#                                                 1 ug_post_mill                
+#                                                 1 ug_smart_models             
+#                                                 1 ug_to_dxf                   
+#                                                 1 ug_to_vericut               
+#                                                 1 ug_visualize                
+#                                                 1 ug_web_express              
+#                                                 1 ugopen_menuscript           
+#                                                 1 usr_defined_features        

@@ -1,0 +1,76 @@
+****************************************************************************************** 
+Below information is use for "SCC Co., Ltd" ONLY! 
+For other purposes please contact Hinh from SCC, Email: xuyen.hinh@tuvanbanquyen.vn 
+****************************************************************************************** 
+Today Is: 
+Tue 03/24/2020 
+****************************************************************************************** 
+Below is Computername: 
+DD-DD03
+****************************************************************************************** 
+The UGS Licensing composite hostid is :
+"COMPOSITE=4E7BB57F4F8D"
+****************************************************************************************** 
+Below is network card information 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DD-DD03
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-V
+   Physical Address. . . . . . . . . : B4-2E-99-A0-D9-28
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.1.5(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DNS Servers . . . . . . . . . . . : 192.168.1.253
+                                       192.168.1.252
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Wireless-AC 9560 160MHz
+   Physical Address. . . . . . . . . : 40-74-E0-B9-E8-1C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 40-74-E0-B9-E8-1D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : 42-74-E0-B9-E8-1C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network) #2
+   Physical Address. . . . . . . . . : 40-74-E0-B9-E8-20
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+****************************************************************************************** 
+SDECIDUtility collect information successful!  
+Please email SCC_CID.txt to right engineer from SCC. 
+****************************************************************************************** 
