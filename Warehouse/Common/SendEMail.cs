@@ -14,21 +14,21 @@ namespace WareHouse.Common
     {
         public static void SendGMail(string to,string subject,string message)
         {
-            EMailDetail eM = EMailDetailDAO.Instance.GetItem();
-            string from = eM.Email;
-            to = to.Substring(0, to.Length - 1);
-            MailMessage mess = new MailMessage(from, to, subject, message);
-            SmtpClient client = new SmtpClient(eM.SMTP, eM.Port);
-            client.EnableSsl = true;
-            client.Credentials = new NetworkCredential(eM.Email, eM.AppPass);
-            try
-            {
-                client.Send(mess);
-            }
-            catch (Exception ex)
-            {
-                EditHistoryDAO.Instance.Insert(DateTime.Now, Kun_Static.accountDTO.UserName, ex.Message, "Lỗi Gửi Mail");
-            }
+            //EMailDetail eM = EMailDetailDAO.Instance.GetItem();
+            //string from = eM.Email;
+            //to = to.Substring(0, to.Length - 1);
+            //MailMessage mess = new MailMessage(from, to, subject, message);
+            //SmtpClient client = new SmtpClient(eM.SMTP, eM.Port);
+            //client.EnableSsl = true;
+            //client.Credentials = new NetworkCredential(eM.Email, eM.AppPass);
+            //try
+            //{
+            //    client.Send(mess);
+            //}
+            //catch (Exception ex)
+            //{
+            //    EditHistoryDAO.Instance.Insert(DateTime.Now, Kun_Static.accountDTO.UserName, ex.Message, "Lỗi Gửi Mail");
+            //}
         }
     }
 }
